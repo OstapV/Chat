@@ -39,7 +39,7 @@ namespace LabOS_11_User_1
             InitTimer();
         }
 
-        private Timer timer;
+        private Timer timer; 
         public void InitTimer()
         {
             timer = new Timer();
